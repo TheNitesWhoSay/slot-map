@@ -2,6 +2,7 @@
 #include <algorithm>
 #include <concepts>
 #include <cstddef>
+#include <cstdint>
 #include <numeric>
 #include <stdexcept>
 #include <unordered_map>
